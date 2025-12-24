@@ -1,11 +1,7 @@
 ## 👋 Hi all!
-### I'm **Software Engineer** with ~ 3 years of experience. Besides Software Engineering, I'm filled with passion for **Philosophy** and **Languages**.
+### I'm a **Software Engineer** with ~2 years of experience.  
+Beyond software development, I have a strong passion for **Philosophy** and **Languages**.
 
-Throughout my career, I've been working in the sphere of **Frontend Development**. I spent the majority of it speciallizng in **Vuejs** and its ecosystem.
+Throughout my career, I've been working in the sphere of **Frontend Development**. I spent the majority of it speciallizing in **Vuejs** and its ecosystem.
 
-I'm basically here to learn and interact with open source software, drived by curosity and passion to make the world, or at least a portion of it, a better place.
-
-
-
-
-
+I'm basically here to learn and interact with open source software, driven by curiosity and passion to make the world, or at least a portion of it, a better place.
