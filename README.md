@@ -1,5 +1,6 @@
 ## 👋 Hi all!
-### I'm a **Software Engineer** with ~2 years of experience.  
+### I'm a **Software Engineer** with ~2.5 years of experience.  
+
 Beyond software development, I have a strong passion for **Philosophy** and **Languages**.
 
 Throughout my career, I've been working in the sphere of **Frontend Development**. I spent the majority of it speciallizing in **Vuejs** and its ecosystem.
